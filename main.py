@@ -6,7 +6,6 @@ import time
 import copy
 import logging
 import random
-
 import smtplib
 from email.mime.text import MIMEText
 
